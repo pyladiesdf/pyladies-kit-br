@@ -1,11 +1,6 @@
-.. PyLadies Brazil HandBook documentation master file, created by
-   sphinx-quickstart on Sat Feb 22 01:12:31 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-========================
-PyLadies Brazil Handbook
-========================
+=================
+PyLadies Handbook
+=================
 
 So You’ve Decided to Start Your Own PyLadies Chapter
 ----------------------------------------------------
@@ -553,12 +548,3 @@ Ask in IRC #pyladies on `irc.freenode.net <http://irc.freenode.net>`_ if
 you must. But feel free to organize your PyLadies chapter however you
 wish, and make it completely your own. We’re here to help you, not to
 limit you or control your plans.
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
