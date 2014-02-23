@@ -1,12 +1,9 @@
 PyLadies Kit
 ============
 
-This kit contains the PyLadies Handbook (nicely viewable at http://pyladies-kit.readthedocs.org) as well as other useful materials for organizing your own PyLadies chapter.
+Este kit contém o PyLadies Handbook (bem visível em http://pyladies-kit.readthedocs.org), bem como outros materiais úteis para organizar o seu próprio grupo PyLadies. Qualquer dúvida, entre em contato conosco pelo link http://pyladiesnatal.potilivre.org/.
 
 License
 -------
 
-The PyLadies Kit is licensed under a Creative Commons Attribution 3.0 Unported License:
-http://creativecommons.org/licenses/by/3.0/
-
-You are free to use all the graphics in this kit to print your own t-shirts, stickers, and other merchandise with one restriction:  if you are selling these items, marking up the price is fine as long as profits goes toward anything women in Python/open-source/computing related.  (We encourage you to use merchandise based on graphics in this kit to raise funds for starting or growing your PyLadies chapter, or hosting PyLadies meetups at conferences!)
+Você é livre para usar todos os gráficos neste kit para imprimir seus próprios t-shirt, etiquetas, e outros produtos com uma restrição: você só poderá vender estes itens se os lucros forem para movimentos ou grupos relacionados a mulheres desenvolvedoras (Python)/open-source/computação relacionados. (Nós o incentivamos a usar itens com base em gráficos deste kit para levantar fundos para iniciar ou desenvolver o seu grupo PyLadies).
