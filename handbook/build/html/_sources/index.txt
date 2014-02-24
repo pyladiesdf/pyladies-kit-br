@@ -1,9 +1,10 @@
-=================
-PyLadies Handbook
-=================
+========================
+PyLadies Brasil Handbook
+========================
+
 
 So You’ve Decided to Start Your Own PyLadies Chapter
-----------------------------------------------------
+====================================================
 
 YAY! We’re excited to have people like you join our growing community
 and want to help you get your chapter launched as quickly and painlessly
@@ -15,6 +16,7 @@ the right foot!
 To help you get started, we’ve created an open-source kit for starting
 your own PyLadies chapter in your city. PyLadies is part social club,
 part stepping stone toward the Python open-source world.
+
 
 What you need
 -------------
@@ -190,7 +192,7 @@ Anything to encourage women to attend and continue attending PUGs is
 great. Talk to your local PUG organizers and ask for their help and
 support in having a post-PUG informal PyLadies meetup.
 
-You might also consider trying to give a :doc:`talks/beginner` at a 
+You might also consider trying to give a <doc talks> at a 
 meetup. This can help bring more beginners who might otherwise be 
 scared away to the group.
 
@@ -548,3 +550,12 @@ Ask in IRC #pyladies on `irc.freenode.net <http://irc.freenode.net>`_ if
 you must. But feel free to organize your PyLadies chapter however you
 wish, and make it completely your own. We’re here to help you, not to
 limit you or control your plans.
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
