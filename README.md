@@ -1,7 +1,7 @@
 PyLadies Kit
 ============
 
-Este kit contém o PyLadies Handbook (bem visível em http://pyladies-kit.readthedocs.org), bem como outros materiais úteis para organizar o seu próprio grupo PyLadies. Qualquer dúvida, entre em contato conosco pelo link http://pyladiesnatal.potilivre.org/.
+Este kit contém o PyLadies Handbook (bem visível em http://pyladies-brasil-handbook.readthedocs.org/en/latest/), bem como outros materiais úteis para organizar o seu próprio grupo PyLadies. Qualquer dúvida, entre em contato conosco pelo link http://pyladiesnatal.potilivre.org/.
 
 License
 -------
