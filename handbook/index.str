@@ -2,12 +2,12 @@
 PyLadies Handbook
 =================
 
-Então você decidiu começar seu próprio grupo PyLadies.
-----------------------------------------------------
+Então você decidiu começar seu próprio grupo PyLadies...
+--------------------------------------------------------
 
-YAY ! Estamos muito animadas para ter pessoas como você se juntando à nossa comunidade (crescente) e queremos ajudá-la a criar o seu grupo Pyladies da melhor forma possível, rápido e sem estresses ;) (lançado o mais rápido e com menos sofrimento possível) . Se a nossa experiência for válida(é qualquer indicação), podemos garantir que o seu primeiro grande evento irá estimular e inspirar a comunidade Python em sua área e criar uma dinâmica para eventos posteriores, por isso é fundamental para começar as coisas com o pé direito!
+YAY ! Estamos muito animadas para ter pessoas como você se juntando à nossa comunidade e queremos ajudá-la a criar o seu grupo Pyladies da melhor forma possível, rápido e sem estresses ;) Com a experiência que temos, podemos garantir que o seu primeiro grande evento irá estimular e inspirar a comunidade Python em sua área e criar uma dinâmica para eventos posteriores, por isso é fundamental para começar as coisas com o pé direito!
 
-Para ajudar você a começar , criamos um kit de código aberto para iniciar o seu próprio grupo PyLadies em sua cidade. PyLadies é parte um grupo social, parte um trampolim para o mundo open-source do Python.
+Para ajudar você a começar, criamos um kit de código aberto para iniciar o seu próprio grupo PyLadies em sua cidade. PyLadies é parte um grupo social, parte um trampolim para o mundo open-source do Python.
 
 O que você precisa
 ------------------
@@ -17,7 +17,7 @@ Você pode, claro, adaptar esta lista para atender as necessidades do seu grupo 
 Organizadores
 ~~~~~~~~~~~~~
 
-Ladies desenvolvedoras de/em Python que querem ser organizadoras de grupos locais PyLadies.
+Ladies desenvolvedoras em Python que querem ser organizadoras de grupos locais PyLadies.
 
 Promoção e Divulgação
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -27,7 +27,7 @@ Vocês podem usar vários canais locais para promover o seu grupo, incluindo mee
 Eventos
 ~~~~~~~
 
-No mínimo, tentar segurar um evento por mês - isso ajuda a fazer com que o interesse das Pyladies não enfraqueça , e ajuda as pessoas a manterem o seu progresso em se tornar melhores desenvolvedoras. Você pode realizar mais eventos com apoio e planejamento adequado.
+No mínimo, tentar segurar um evento por mês - isso ajuda a fazer com que o interesse das Pyladies não enfraqueça, e ajuda as pessoas a manterem o seu progresso em se tornar melhores desenvolvedoras. Você pode realizar mais eventos com apoio e planejamento adequado.
 
 Como usar esse kit
 -------------------
@@ -44,17 +44,18 @@ Tipos de grupos
 
 Um grupo pode ser:
 
-#. um grupo geográfico : para uma cidade, região, estado ou país
-#. um grupo de alunos: para uma universidade , faculdade ou escola
-#. um grupo de interesses comuns : para qualquer tema (por exemplo, PyGame , SciPy , Django )
-Quanto maior o grupo, mais difícil é realizar encontros pessoalmente. Os grandes eventos do grupo serão principalmente meetups virtuais que ocorrem online, ao passo que as eventos de pequenos grupos tendem a ser meetups pessoais .
+#. um grupo geográfico : para uma cidade, região, estado ou país;
+#. um grupo de alunos: para uma universidade , faculdade ou escola;
+#. um grupo de interesses comuns : para qualquer tema (por exemplo, PyGame , SciPy , Django );
+
+Quanto maior o grupo, mais difícil é realizar encontros pessoalmente. Os grandes eventos do grupo serão principalmente meetups virtuais que ocorrem online, ao passo que as eventos de pequenos grupos tendem a ser meetups pessoais.
 Um grupo pode consistir em sub-grupos, tornando tanto possíveis meetups virtuais e encontros ao vivo.
   
   
 Tamanho do grupo
 ~~~~~~~~~~~~~~~~
 
-É bom se o grupo é pequeno . Tendo apenas 5 a 15 mulheres que se reúnem regularmente para trocar dicas e truques Python já conta como um grupo. O que mais importa é a qualidade, não quantidade.
+É bom se o grupo é pequeno. Tendo apenas 5 a 15 mulheres que se reúnem regularmente para trocar dicas e truques Python já conta como um grupo. O que mais importa é a qualidade, não quantidade.
 
 Grupos maiores têm mais flexibilidade para organizar diferentes tipos de eventos, mas é mais difícil para que todos se juntem.
 
@@ -64,30 +65,28 @@ A configuração inicial do seu grupo
 
 Mande-nos um email para pyladiesbrazil@pyladies.com com as seguintes informações:
 
-#. Nomes / e-mails dos co-organizadores .
-#. Subdomínio desejado para o seu grupo ( http://your-subdomain.pyladies.com ) . Isso pode ser para um grupo geográfico , relacionados a universidade / escola , referente a grupos de interesse , ou quase qualquer outro nome de sua escolha .
-#. 1-2 parágrafo resumo sobre o seu grupo , para que possamos anunciá-lo em pyladies.com / blog e no boletim nacional das PyLadies.
+#. Nomes / e-mails das co-organizadoras .
+#. Subdomínio desejado para o seu grupo ( http://your-subdomain.pyladies.com ) . Isso pode ser para um grupo geográfico, relacionados a universidade/escola, referente a grupos de interesse , ou quase qualquer outro nome de sua escolha.
+#. 1-2 parágrafo resumo sobre o seu grupo, para que possamos anunciá-lo em brasil.pyladies.com e no boletim nacional das PyLadies.
 #. Endereço de e-mail desejado (quelquercoisa@pyladies.com ) .
 
 
 Criar pelo menos um dos seguintes:
 
-#. Um grupo no Meetup.com para o seu grupo ou uma página pra haver sempre a divulgação dos eventos e o controle de quem irá - ( recomendado; perguntar-nos sobre o patrocínio , se você precisa de ajuda com as taxas de inscrição Meetup )
+#. Um grupo no Meetup.com para o seu grupo ou uma página pra haver sempre a divulgação dos eventos e o controle de quem irá. Você pode usar outras ferramentas para divulgação, como página ou grupo no Facebook, lista no gmail, etc.
 #. Um site e lista de discussão para o seu grupo (nota: Meetup.com tem esse serviço, pode considerar o uso dele para simplificar as coisas, mas também existe a lista de gmail, etc)
-Publicar uma descrição do seu primeiro evento em seu grupo Meetup.com ou site. Pode ser tão simples como " Estamos chegando juntos no X Coffee Shop, 123 Main St., Anytown para fazer planos para o nosso novo grupo PyLadies grupo. Todas as desenvolvedoras locais de/em Python (e seus convidados) (e homens interessados ​​em ajudar ) estão convidados. "
-Em seguida, consulte a seção de Promoção do Manual PyLadies para obter informações sobre como promover o seu primeiro evento grupo!
 
-Publique uma descrição do seu primeiro evento em seu grupo Meetup.com ou site. Pode ser tão simples como " Estamos chegando juntos no X Coffee Shop, 123 Main St., Anytown para fazer planos para o nosso novo grupo PyLadies grupo. Todas as desenvolvedoras locais de/em Python (e seus convidados) (e homens interessados ​​em ajudar ) estão convidados. "
+Publique uma descrição do seu primeiro evento em seu grupo Meetup.com ou site. Pode ser tão simples como "Estamos chegando juntos no X Coffee Shop, 123 Main St., Anytown para fazer planos para o nosso novo grupo PyLadies grupo. Todas as desenvolvedoras locais em Python (e seus convidados) (e homens interessados ​​em ajudar) estão convidados."
 
 Em seguida, consulte a seção de Promoção do Manual PyLadies para obter informações sobre como promover o seu primeiro evento grupo!
 
 Eventos
 -------
 
-Organizer Events
-~~~~~~~~~~~~~~~~
+Organização de Eventos
+~~~~~~~~~~~~~~~~~~~~~~
  
-Muito útil para planejar reuniões, mas também para suporte e prestação de contas.
+Muito útil para planejar reuniões, mas também para suporte e prestação de contas. São só sugestões...
 
 Python Ladies' Nights
 ~~~~~~~~~~~~~~~~~~~~~
@@ -109,8 +108,20 @@ Introdução à Python
 
 #. Austin PyLadies Intro to Python <https://github.com/pyladiesatx/pyladiesatx/tree/master/classes/python_intro>
 #. PyStar tem ótimos tutoriais para iniciantes.
-#. Learn Python the Hard Way, por Zed Shaw
-#. Personalizado (dependendo das suas necessidades)
+#. Learn Python The Hard Way, 2nd Edition (Zed Shaw) - http://learnpythonthehardway.org/book
+#. Dive Into Python (Mark Pilgrim) - http://www.diveintopython.net/
+#. Dive Into Python 3 (Mark Pilgrim) - http://www.diveintopython3.net/
+#. Google Python Class - https://developers.google.com/edu/python/
+#. Documentação Oficial - http://www.python.org.br/wiki/DocumentacaoPython
+#. Cook Book - http://www.python.org.br/wiki/CookBook
+#. Python na Prática - http://www.async.com.br/projects/python/pnp/
+#. Aprenda a programar Python - http://www.python.org.br/wiki/DocumentacaoPython?action=AttachFile&do=get&target=Aprenda_a_Programar-Luciano_Ramalho.pdf
+#. Manual de Referência Python - http://www.python.org.br/wiki/DocumentacaoPython?action=AttachFile&do=get&target=refpython24.pdf
+#. WikiBooks - http://pt.wikibooks.org/wiki/Python
+
+Fora eles, tem alguns cursos online:
+#. https://www.coursera.org/
+#. http://www.codecademy.com/tracks/python
 
 Introdução à Django
 ^^^^^^^^^^^^^^^^^^^
@@ -127,16 +138,14 @@ Outros tópicos de interesse para workshop
 Hackathons/Sprints
 ~~~~~~~~~~~~~~~~~~
 
-O LA PyLadies tem sediado hackathons onde os participantes levam seus próprios notebooks e projetos para trabalhar neles. Iniciantes são encaminhados ao tolearnpythonthehardway.org e instruídosa trabalhar o tutorial, pedido ajuda sempre que necessário. Eles rapidamente postam atividades no Github, como forma de começar a mergulhar no mundo do open source.
+Alguns grupos locais do PyLadies tem sediado hackathons onde os participantes levam seus próprios notebooks e projetos para trabalhar neles. Iniciantes são encaminhados a cursos como Python para zumbies (http://pycursos.com/python-para-zumbis/) e a tutoriais, eles são acompanhados por monitores que sempre dão apoio quando necessário. Eles rapidamente postam atividades no Github, como forma de começar a mergulhar no mundo do open source.
 
-Hackathons podem eventos de uma tarde,vc dia inteiro ou fim de semana.
+Hackathons podem ser eventos de uma tarde, um dia inteiro ou um fim de semana.
 
 Encontros Virtuais
 ~~~~~~~~~~~~~~~~~~
 
-O PyLadiesAU tiveram sua primeira reunião de grupo virtualmente. Veja http://au.pyladies.com/events/32589162/ para detalhes.
-
-O canal IRC #pyladies está sempre disponível para qualquer um usar para reuniões online. Sinta-se livre para usá-lo sem pedir permição, ou crie um canal #pyladies-qualquercoisa, se você preferir.
+Você pode realizar hangouts, chamadas por skype ou reuniões virtuais com outras ferramentas para trabalhar com as meninas idependende do local que estão. Uma sugestão que damos é o codassium.com, com ele você pode escrever código junto com vários outras pessoas e caso queira, pode fazer uma vídeo chamada.
 
 Encontros como parte de um encontro de Grupo de Usuários Python (GUP)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -145,12 +154,12 @@ Um evento PyLadies pode ser simples como um grupo de mulheres juntas conversando
 
 Qualquer coisa que encorage mulheres a participar e continuar participando dos grupos Python é ótima. Converse com os organizadores da sua comunidade de Python local e peça sua ajuda e suporte para ter um encontro PyLadies informal pós-reunião.
 
-Você também pode considerar entregar um <doc> em um encontro. Isso pode ajudar iniciantes que de outra forma podem se assustar e se afastar do grupo.
+Você também pode considerar entregar um <doc> em um encontro. Isso pode ajudar iniciantes e evintar que se assustem e se afastem do grupo.
 
 Reuniões para revisão de código
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Revisar códigos de uns dos outros pode ajudar a todos a aprender melhores práticas de programação. 
+Revisar códigos uns dos outros pode ajudar a todos a aprender melhores práticas de programação. Aceite sugestões e críticas, podem te ajudar a crescer. Também aprenda a dar sugestões e críticas, dependendo de como faça outras pessoas podem crescer ;)
 
 Sessões de preparação de Conferências 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -169,14 +178,14 @@ Conferências podem ser estressantes, mas também são muito divertidas, especia
 Divulgação
 -----------
 
-Um dos benefícios da criação de um grupo PyLadies é ter acesso a uma rede mundial de apoio de PyLadies, que podem te ajudar a divulgar seus eventos.
+Um dos benefícios da criação de um grupo PyLadies é ter acesso a uma rede mundial de apoio de PyLadies, que pode te ajudar a divulgar seus eventos.
 
 Como promover seus eventos localmente
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Faça o seguinte:
 
-#. Poste uma descrição do evento na sua página meetup.com ou site.
+#. Poste uma descrição do evento na sua página meetup.com ou site, em grupos do Facebook e Twitter.
 #. Anuncie seu evento através da sua lista de contatos.
 #. Crie flyers e os distribua em encontros gerais, encontros dos usuários de Python locais, trabalho, e nas universidades locais.
 #. Aproxime-se dos departamentos de engenharia/ciência da faculdades e universidades locais.
@@ -188,12 +197,14 @@ Como podemos ajudar
 
 Envie e-mail para o ponto principal de contato de qualquer um dos seguintes canais, e forneça texto e/ou imagens para usarmos:   
 
-#. Boletim informativo global das PyLadies: bom para anúncios sobre encontros. Pessoas inscritas por todo o mundo. Por favor, mantenha o texto breve e inclua uma imagem. info@pyladies.com)
-#. Blog das PyLadies: nós iríamos amar que você contribuísse com posts no nosso blog! É simplesmente fazer uma bifurcação e, em seguida, enviar uma requisição a http://github.com/pyladies/pyladies
+#. Boletim informativo global das PyLadies: bom para anúncios sobre encontros. Pessoas inscritas por todo o mundo. Por favor, mantenha o texto breve e inclua uma imagem. brazil@pyladies.com)
+#. Blog das PyLadies: nós iríamos amar que você contribuísse com posts no nosso blog! Nos mande um email caso deseje ajudar ou faça um pull-requeste para https://github.com/PyLadiesBr/pyladiesbr.github.io. Veja os arquivos que existe na pasta _posts e faça um na mesma estrutura.
+
 
 Além disso, promova todos os seus eventos diretamente através do seguinte:
-6. Grupo PyLadies Google: http://groups.google.com/group/pyladies 
-7. Canal IRC #pyladies (FreeNode)
+1. Grupo PyLadies Google: http://groups.google.com/group/pyladies 
+2. Página no Facebook: https://www.facebook.com/PyLadiesBrazil
+3. Canal IRC #pyladies (FreeNode)
 
 Sempre que você tiver notícias de interesse da comunidade PyLadies, todos os canais acima estão disponíveis para ajudá-lo a fazer o seu anúncio. Estamos sempre à procura de boas citações e fotos de mulheres desenvolvedoras de Python.
 
