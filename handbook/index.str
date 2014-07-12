@@ -46,7 +46,7 @@ Um grupo pode ser:
 
 #. um grupo geográfico : para uma cidade, região, estado ou país;
 #. um grupo de alunos: para uma universidade , faculdade ou escola;
-#. um grupo de interesses comuns : para qualquer tema (por exemplo, PyGame , SciPy , Django );
+#. um grupo de interesses comuns : para qualquer tema (por exemplo, PyGame , SciPy , Django);
 
 Quanto maior o grupo, mais difícil é realizar encontros pessoalmente. Os grandes eventos do grupo serão principalmente meetups virtuais que ocorrem online, ao passo que as eventos de pequenos grupos tendem a ser meetups pessoais.
 Um grupo pode consistir em sub-grupos, tornando tanto possíveis meetups virtuais e encontros ao vivo.
@@ -120,14 +120,15 @@ Introdução à Python
 #. WikiBooks - http://pt.wikibooks.org/wiki/Python
 
 Fora eles, tem alguns cursos online:
+
 #. https://www.coursera.org/
 #. http://www.codecademy.com/tracks/python
 
 Introdução à Django
 ^^^^^^^^^^^^^^^^^^^
 
-#. Tutorial do docs.djangoproject.com <http://docs.djangoproject.com>`_
-#. Slides do Workshop Intro to Django, de Sandy Strong. <http://bit.ly/qMcEAT>`_
+#. Tutorial do docs.djangoproject.com <http://docs.djangoproject.com>
+#. Slides do Workshop Intro to Django, de Sandy Strong. <http://bit.ly/qMcEAT>
 
 Outros tópicos de interesse para workshop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -211,104 +212,59 @@ Sempre que você tiver notícias de interesse da comunidade PyLadies, todos os c
 Orientações para a utilização dos canais de promoção PyLadies
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Anything of interest to women in the Python community can be posted in
-the various PyLadies channels, provided that it meets these guidelines:
+Qualquer coisa de interesse de interessa para mulheres da comunidade Python podem ser postada nos canais do pyladies, desde que cumpra esses pontos:
 
-#. **Send us the actual text that you want posted.**
-#. For local PyLadies chapter events:
+#. **Nos envie o texto que você quer que seja postado.**
+#. Para eventos do PyLadies local:
 
-   * Send text for as many events as possible to the channels listed above.
-     The more we can promote your events, the better.
-#. For non-chapter events and general postings:
+   * Envie a maior quantidade possível de textos sobre os eventos que vocês forem realizar para nós, para que possamos compartilhar em nossos canais. Quanto mais pudermos ajudar a promover seus eventos, melhor.
+   
+#. Para eventos que não são do grupo local do PyLadies e postagens em geral:
 
-   * Postings should be relevant to women.  Mention the women organizing	
-     and/or attending the event.  Have their names link to their websites or
-     Twitter accounts.
-   * Don't just reuse the same blurb that you use everywhere; customize it to
-     be relevant to the specific audience you're addressing.
-   * We'd love to use the various channels to feature what PyLadies from
-     everywhere are doing.  If you know of someone who should be featured,
-     you can write up something interesting for the blog, Twitter stream, etc.
-   * If you are hosting a Python community event or conference and need our
-     help getting more women to attend, submit proposals, etc., a heartfelt
-     explanation about why more women should attend and feel welcome goes a
-     long way. A PyLadies discount code also helps: keep in mind that a huge
-     part of our audience are students/those just starting out professionally
-     with Python, who cannot afford to commit to events or submit
-     proposals unless there is a known, guaranteed PyLadies discount.
+   * As postagens devem ser relevantes para as mulheres da comunidade.  Mencione as mulheres que estão organizando
+     e/ou participando do evento, vinculando seus nomes aos linkes que suas páginas ou contas de suas redes sociais.
+   * Explique bem do que se trata, e destaque os pontos que tornam o assunto que você está falando relevando para a comunidade.
+   * Gostaríamos de usar os vários canais para divulgar a comunidade do PyLadies de 
+     vários lugares estão fazendo. Se você souber de alguém que deve ser apresentado ou algum evento que deve ser divulgado,
+     você pode escrever alguma coisa interessante para o blog, Twitter, etc
+   * Se você está hospedando um evento da comunidade Python ou conferência e precisa de nossa 
+     de ajuda para obter mais mulheres para participar, apresente-nos propostas, etc, uma 
+     explicação sobre por que mais mulheres devem participar. Um código de desconto para PyLadies também ajuda: 
+     lembre-se que uma grande parte de nosso público são alunas que está começando profissionalmente 
+     com Python, que não pode dar ao luxo de comprometer-se a eventos ou enviar 
+     propostas a menos que haja um desconto.
+     
+Encontrar patrocinadores/ Levantar fundos
+-----------------------------------------
 
-Finding Sponsors/Raising Funds
-------------------------------
+Se o seu capítulo é pequeno, você não precisa necessariamente de patrocinadores. Realize os encontros com as meninas em cafés, restaurantes ou nas casas das pessoas. 
 
-If your chapter is small, you don’t necessarily need sponsors. Hosting
-chapter meetups at coffee shops, restaurants, or people’s houses is
-fine.
+No entanto, você pode querer organizar viagens, conferências e outros tipos de eventos mais caros. Nesse caso, você vai precisar para levantar fundos e procurar empresas locais (ou não) que estejam dispostas a patrocinar um evento.
 
-However, you may want to organize trips, conferences, and other types of
-more costly events. If so, you will need to raise local chapter funds
-and ask local Python shops to consider sponsoring an event.
+Patrocinadores
+~~~~~~~~~~~~~~~
+Pesquise empresas locais e aproximar-se delas. Muitas vezes, uma empresa que
+já cede local para outros encontros está dispostas a ceder também ao PyLadies. 
+Pergunte se eles vão fornecer comida/bebidas; se não, você pode cobrar uma taxa as
+participantes para os alimentos (e mais, se você quiser usar os fundos
+para eventos futuros). Ou então, tente conseguir uma empresa que ajude com os custos dos gastos
+e você dão à ela, um espaço durante o encontro para se promoverem.
 
-Venue Sponsors
-~~~~~~~~~~~~~~
-Research local companies and approach them. Often, a company that
-already hosts other meetups will be willing to host your PyLadies
-chapter. Ask them if they’ll provide pizza/drinks; if not, charge
-attendees a fee that covers food (and more, if you want to use the funds
-for future events).
-
-Fiscal Sponsorship from the PSF
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The `Python Software Foundation <http://python.org/psf>`_ has been very supportive of PyLadies.
-They have a `special donation page <https://psfmember.org/civicrm/contribute/transact?reset=1&id=6>`_,
-where donors can use PayPal to make donations directly to the PSF that are
-tax-deductible, which can then be used to reimburse PyLadies organizers who
-pay for various event costs.
+Patrocínio Fiscal do PSF 
+~~~~~~~~~~~~~~~~~~~~~~~~
+O `Python Software Foundation <http://python.org/psf>`_ tem dado grande apoio ao PyLadies.
+Eles tem uma `página de doação especial <https://psfmember.org/civicrm/contribute/transact?reset=1&id=6>`_,
+onde doadores podem usar o PayPal para fazer doações diretamente ao PSF que são
+tax-deductible, que são usadas para reembolsar a organização do PyLadies que pagou os custos dos eventos.
 
 
-PSF Grant Programs
-~~~~~~~~~~~~~~~~~~
+Patrocínio de empresas
+~~~~~~~~~~~~~~~~~~~~~~
 
-See our `sample PSF grant proposal to raise money for t-shirts, tables,
-and chairs:
-<https://github.com/pyladies/pyladies-kit/blob/master/grant-proposals/sample-hackathon.pdf?raw=true>`_
+É importante que você tenha um documento para entregar as empresas que forem patrocinar seus eventos.
 
-You can apply for a Python Sprints grant to raise money for food, power
-strips, name tags, and anything else you might need to run a
-sprint/hackathon, up to $300:
-
-
-Selling t-shirts/merchandise
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Some PyLadies designs and printing instructions are provided with this
-kit. The cost is roughly $500-750 for 60 shirts. Shirts can be sold for
-$20 each (you can adjust the price to meet your needs/currency, of
-course).
-
-See the “T-Shirts, Stickers, and Other Merchandise” section for more
-details.
-
-Corporate sponsorship
-~~~~~~~~~~~~~~~~~~~~~
-
-Many companies are looking for ways to give back to the developer
-community. You’ll want to put together a corporate sponsor info packet.
-
-See our sample info packet at [upload sponsorship doc to git repo].
-Borrow ideas from it, and customize it to fit your chapter.
-
-Swag: T-Shirts, Stickers, and Other Merchandise
------------------------------------------------
-
-Currently, T-shirts are available via Spreadshirt at
-`http://pyladies.spreadshirt.com/ <http://pyladies.spreadshirt.com/>`_.
-Proceeds from the shop benefit the PyLadies organization and go toward
-things like nonprofit corporation setup, helping new chapters, servers,
-etc.
-
-Sometimes we also create limited runs of T-shirts, stickers, etc. Check
-the blog or ask around in IRC #pyladies if you’re interested in seeing
-what we have.
+Crie pacotes com valores e benefícios. Por exemplo, se uma empresa fechar com você para patrocinar com 1.000 R$, ela vai ter um espaço na 
+página do evento, na mídia impressa e 5 minutos no dia do evento para divulgar sua empresa. Benefícios assim ajudam a chamar a atenção de possíveis patrocinadores.
 
 Local chapter merchandise
 ~~~~~~~~~~~~~~~~~~~~~~~~~
